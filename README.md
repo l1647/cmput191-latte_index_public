@@ -1,6 +1,7 @@
 ## cmput191 Starbucks Latte Index
+theme: cayman
 
-Introduction:
+Introduction
 
 Hello! The index I have created is a Starbucks Latte index
 
@@ -9,7 +10,7 @@ Hello! The index I have created is a Starbucks Latte index
 This is the exchange rate
 
 
-Scraping Tables:
+Scraping Tables
 -Established a function for scraping tables
 
 -found price from multiple sites in local currency
@@ -17,23 +18,23 @@ Scraping Tables:
 
 All of my data comes from scraping table from the web, from a large amount of websites.
 
-Cleaning the Data:
+Cleaning the Data
 -Cleaned data by stripping the currency
 -Matched the data to my initial pricing table
 -
 
-Difference Visualization:
+Difference Visualization
 
 -Hong Kong has a surprisingly high price. Shipping and covid could have had an effect
 
-GST Affectin Factor:
+GST Affectin Factor
 
-Observations:
+Observations
 
 -Singapore has low tax which does encourage foreign investing, thus increasing gdp
 
 
-Correlation Coefficient:
+Correlation Coefficient
 
 
 
